@@ -16,4 +16,8 @@ namespace vjezba1_condic
         {
         }
     }
+    public void DrugaMetoda()
+{
+    Console.WriteLine("Hello");
+}
 }
