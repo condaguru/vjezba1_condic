@@ -10,5 +10,6 @@ namespace vjezba1_condic
     {
         int a;
         int b;
+        int c;
     }
 }
